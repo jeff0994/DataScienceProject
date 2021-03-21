@@ -7,6 +7,8 @@ Data Science and analytics projects in Python.
 
 ### Contents
 * [Toolbox](###Toolbox)
+* [Skills](###Skills)
+* [Projects Python Notebooks](###Projects Python Notebooks)
 
 
 <div id="Toolbox"></div>
@@ -14,6 +16,7 @@ Data Science and analytics projects in Python.
 ### Toolbox
 </b> <mark>SQL</mark> <mark>Python</mark> <mark>Numpy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Pandas</mark> <mark>PowerBI</mark> <mark>Scikit-learn</mark> <mark>Jupyter Lab</mark> <mark>Tensorflow</mark> <mark>Bokeh</mark> <mark>Folium</mark>
 
+<div id="Skills"></div>
 ### Skills
 * Data Manipulation
 * Data Cleaning
@@ -24,6 +27,7 @@ Data Science and analytics projects in Python.
 * Regression
 * Statistical Thinking
 
+<div id="Projects Python Notebooks"></div>
 #### Projects Python Notebooks
 
 1. [A Visual History of Nobel Prize Winners](https://github.com/jeff0994/DataScienceProjects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
