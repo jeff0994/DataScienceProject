@@ -8,7 +8,7 @@ Data Science and analytics projects in Python.
 ### Contents
 * [Toolbox](###Toolbox)
 * [Skills](###Skills)
-* [Projects Python Notebooks](###Projects Python Notebooks)
+* [Projects Python Notebooks](###Projects_Python_Notebooks)
 
 
 <div id="Toolbox"></div>
@@ -28,7 +28,7 @@ Data Science and analytics projects in Python.
 * Regression
 * Statistical Thinking
 
-<div id="Projects Python Notebooks"></div>
+<div id="Projects_Python_Notebooks"></div>
 
 #### Projects Python Notebooks
 
