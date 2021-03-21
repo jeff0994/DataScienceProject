@@ -6,22 +6,13 @@
 Data Science and analytics projects in Python.
 
 ### Contents
-* [Toolbox](#Toolbox)
+* [Toolbox](###Toolbox)
 
 
 <div id="Toolbox"></div>
-### Toolbox
 
-* Python
-* Numpy
-* Pandas
-* Scipy
-* Matplotlib
-* Seaborn
-* Bokeh
-* Folium
-* Jupyter
-* SQL     
+### Toolbox
+</b> <mark>SQL</mark> <mark>Python</mark> <mark>Numpy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Pandas</mark> <mark>PowerBI</mark> <mark>Scikit-learn</mark> <mark>Jupyter Lab</mark> <mark>Tensorflow</mark> <mark>Bokeh</mark> <mark>Folium</mark>
 
 ### Skills
 * Data Manipulation
