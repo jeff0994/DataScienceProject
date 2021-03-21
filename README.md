@@ -8,7 +8,7 @@ Data Science and analytics projects in Python.
 ### Contents
 * [Toolbox](###Toolbox)
 * [Skills](###Skills)
-* [Projects Python Notebooks](###"Projects Python Notebooks")
+* [Projects Python Notebooks](###Projects Python Notebooks)
 
 
 <div id="Toolbox"></div>
