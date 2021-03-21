@@ -17,6 +17,7 @@ Data Science and analytics projects in Python.
 </b> <mark>SQL</mark> <mark>Python</mark> <mark>Numpy</mark> <mark>Seaborn</mark> <mark>Matplotlib</mark> <mark>Pandas</mark> <mark>PowerBI</mark> <mark>Scikit-learn</mark> <mark>Jupyter Lab</mark> <mark>Tensorflow</mark> <mark>Bokeh</mark> <mark>Folium</mark>
 
 <div id="Skills"></div>
+
 ### Skills
 * Data Manipulation
 * Data Cleaning
