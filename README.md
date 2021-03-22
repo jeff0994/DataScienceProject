@@ -6,9 +6,9 @@
 Data Science and analytics projects in Python.
 
 ### Contents
-* [Toolbox](###Toolbox)
-* [Skills](###Skills)
-* [Projects Python Notebooks](###Projects_Python_Notebooks)
+* [Toolbox](#Toolbox)
+* [Skills](#Skills)
+* [Projects Python Notebooks](#Projects_Python_Notebooks)
 
 
 <div id="Toolbox"></div>
@@ -30,7 +30,7 @@ Data Science and analytics projects in Python.
 
 <div id="Projects_Python_Notebooks"></div>
 
-#### Projects Python Notebooks
+### Projects Python Notebooks
 
 1. [A Visual History of Nobel Prize Winners](https://github.com/jeff0994/DataScienceProjects/tree/main/A%20Visual%20History%20of%20Nobel%20Prize%20Winners)
 2. [Analyzing Police Activity with pandas](https://github.com/jeff0994/DataScienceProjects/tree/main/Analyzing%20Police%20Activity%20with%20pandas)
