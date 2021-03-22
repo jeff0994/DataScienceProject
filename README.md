@@ -9,6 +9,7 @@ Data Science and analytics projects in Python.
 * [Toolbox](#Toolbox)
 * [Skills](#Skills)
 * [Projects Python Notebooks](#Projects_Python_Notebooks)
+* [BI projects](#BI-projects)
 
 
 <div id="Toolbox"></div>
@@ -43,3 +44,12 @@ Data Science and analytics projects in Python.
 9. [Recreating John Snow's Ghost Map](https://github.com/jeff0994/DataScienceProjects/tree/main/Recreating%20John%20Snow's%20Ghost%20Map)
 10. [The Android App Market on Google Play](https://github.com/jeff0994/DataScienceProjects/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
 11. [The GitHub History of the Scala Language](https://github.com/jeff0994/DataScienceProjects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
+
+<div id="BI-Projects"></div>
+
+### BI Projects
+
+1. [Histórico Ventas de Videojuegos](https://app.powerbi.com/view?r=eyJrIjoiMTYyZjI0NWEtMzFiMS00MzZkLWIxZTktYzM3YzI2NTUzMDc5IiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection)
+2. [Indicadores mundiales](https://app.powerbi.com/view?r=eyJrIjoiYTMzOTMyYjMtODM3YS00YmQ0LTkzZTctMGVjNmNiNjU1NTU2IiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection9bac3d16c1ad310ed530)
+3. [Reporte Recursos Humanos](https://app.powerbi.com/view?r=eyJrIjoiN2FhMTZjNmItNzZkNi00YWE3LWJmYmYtYjkyMjEyZGJkM2YwIiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9&embedImagePlaceholder=true&pageName=ReportSection1497fad92b0bd2994021)
+4. [Proyecto de Finanzas](https://app.powerbi.com/view?r=eyJrIjoiODhjYmU0YmYtM2E5My00MWZlLThlZDUtNmQyMjhhNjI0NTQ4IiwidCI6ImU3OTg0Y2FjLTI1NDMtNGY4OC04Zjk3LTk1MjQzMzVlNmJjNCIsImMiOjR9&pageName=ReportSection986d14809020c22c0384)
