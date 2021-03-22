@@ -47,6 +47,7 @@ Data Science and analytics projects in Python.
 9. [Recreating John Snow's Ghost Map](https://github.com/jeff0994/DataScienceProjects/tree/main/Recreating%20John%20Snow's%20Ghost%20Map)
 10. [The Android App Market on Google Play](https://github.com/jeff0994/DataScienceProjects/tree/main/The%20Android%20App%20Market%20on%20Google%20Play)
 11. [The GitHub History of the Scala Language](https://github.com/jeff0994/DataScienceProjects/tree/main/The%20GitHub%20History%20of%20the%20Scala%20Language)
+12. [Which Debts Are Worth the Bank's Effort](https://github.com/jeff0994/DataScienceProjects/tree/main/Which%20Debts%20Are%20Worth%20the%20Bank's%20Effort)
 
 <div id="BI-Projects"></div>
 
