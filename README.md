@@ -65,5 +65,5 @@ Data Science and analytics projects in Python.
 2. [Statistical Thinking in Python (Part 1)](https://github.com/jeff0994/DataScienceProjects/tree/main/Statistical%20Thinking%20in%20Python%20(Part%201)%20(tutorial))
 3. [Statistical Thinking in Python (Part 1](https://github.com/jeff0994/DataScienceProjects/tree/main/Statistical%20Thinking%20in%20Python%20(Part%202)%20(tutorial))
 4. [Supervised Machine Learning with Python](https://github.com/jeff0994/DataScienceProjects/tree/main/Machine%20Learning%20with%20Sklearn%20(tutorial))
-5. [Machine Learning with Tree-Based Models in Python]((https://github.com/jeff0994/DataScienceProjects/tree/main/Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python%20(tutorial))
+5. [Machine Learning with Tree-Based Models in Python](https://github.com/jeff0994/DataScienceProjects/tree/main/Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python%20(tutorial))
 6. [SQL in Python with SQL Alchemy](https://github.com/jeff0994/DataScienceProjects/tree/main/SQL%20in%20Python%20with%20SQLAlchemy)
